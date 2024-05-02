@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673989655360",
+    "project_id": "score-keeper-754ee",
+    "storage_bucket": "score-keeper-754ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673989655360:android:561adb0b01d5a4e2b798a5",
+        "android_client_info": {
+          "package_name": "com.example.score_keeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiH7kTSNqJAGZ6-XM7jIrJ5n3guEw1q1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
